@@ -12,19 +12,21 @@ The PHP thalib library is a library that gathers several useful codes to the pro
 
 ### Como adicionar a biblioteca ao seu site
 
-\<?php
-  
-    //adicionando a linha abaixo no seu código php todas as funções da biblioteca irão fincionar 
+<?php
+
+    // adicionando a linha abaixo no seu código php, todas as funções da biblioteca irão funcionar
+    // by adding the line below to your php code, all library functions will work
     include 'caminha_do_arquivo/thalib 1.0.php';
 
 ?>
 
 ### Function removeAccent(insira_aqui_o_parametro_com_o_texto_que_terá_os_acentos_removidos)
+
 ### Function removeAccent(insert_here_the_parameter_with_the_text_that_will_have_the_accents_removed)
 
-Função para tirar o acento e cedilha de textos
+Função para tirar o acentos e cedilhas de textos
 
-Function to remove the accent and cedilla of texts
+Function to remove text accents and cedillas
 
 OBS: é posssivel personlizar o que será removido através dos arrays dentro da função.
 
