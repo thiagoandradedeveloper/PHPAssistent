@@ -12,10 +12,11 @@ The PHP thalib library is a library that gathers several useful codes to the pro
 
 ### Como adicionar a biblioteca ao seu site
 
-<?php
+\<?php
 
     // adicionando a linha abaixo no seu código php, todas as funções da biblioteca irão funcionar
     // by adding the line below to your php code, all library functions will work
+    
     include 'caminha_do_arquivo/thalib 1.0.php';
 
 ?>
