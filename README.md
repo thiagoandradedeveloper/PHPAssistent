@@ -1,4 +1,5 @@
 # Documentação da biblioteca THALIB
+# Documentation of the library THALIB
 
 OBS: A documentação esta em inglês e português, mais tarde será disponibilizada uma outra em português, inglês e espanhol.
 
@@ -11,6 +12,7 @@ A biblioteca PHP thalib é uma biblioteca que reune varios códigos úteis ao di
 The PHP thalib library is a library that gathers several useful codes to the programmer's daily life, avoiding waste of time.
 
 ### Como adicionar a biblioteca ao seu site
+### How to add library to your site 
 
 \<?php
 
