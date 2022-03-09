@@ -1,5 +1,6 @@
-# Documentação da biblioteca THALIB
-# Documentation of the library THALIB
+# Documentação da biblioteca PHPAssistent
+
+# Documentation of the library PHPAssistent
 
 OBS: A documentação esta em inglês e português, mais tarde será disponibilizada uma outra em português, inglês e espanhol.
 
